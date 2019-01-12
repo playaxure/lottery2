@@ -1,0 +1,137 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(188, 188, 188, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:360px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u286_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:361px;
+  height:571px;
+}
+#u286 {
+  position:absolute;
+  left:0px;
+  top:45px;
+  width:360px;
+  height:570px;
+  font-size:12px;
+  color:#666666;
+  text-align:left;
+}
+#u287 {
+  position:absolute;
+  left:20px;
+  top:40px;
+  width:320px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u288_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:361px;
+  height:46px;
+}
+#u288 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:45px;
+  font-size:15px;
+  color:#666666;
+  text-align:left;
+}
+#u289 {
+  position:absolute;
+  left:35px;
+  top:14px;
+  width:323px;
+  word-wrap:break-word;
+}
+#u290_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:26px;
+  height:26px;
+}
+#u290 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:25px;
+  height:25px;
+  font-family:'FontAwesome';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  color:#333333;
+  text-align:left;
+}
+#u291 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:25px;
+  word-wrap:break-word;
+}
+#u292_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:291px;
+  height:113px;
+}
+#u292 {
+  position:absolute;
+  left:20px;
+  top:60px;
+  width:290px;
+  height:112px;
+  font-size:12px;
+  color:#666666;
+  line-height:28px;
+}
+#u293 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:290px;
+  word-wrap:break-word;
+}
+#u294_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:361px;
+  height:2px;
+}
+#u294 {
+  position:absolute;
+  left:0px;
+  top:45px;
+  width:360px;
+  height:1px;
+}
+#u295 {
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:356px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
